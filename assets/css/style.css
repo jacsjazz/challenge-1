@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* provides the big center image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,12 +58,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-.float-left {
+    /* allows for image to stay left */ 
+.float-left { 
     float: left;
     margin-right: 25px;
 }
-
+ /*Makes image move to the right side */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Allows for article to be on the right side*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,7 +100,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Aligns h3 in the center of the articles for the benefit class*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,7 +115,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Allows benefit class images to line up as blocks in the center */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+ /* Allows for our images to have a background and padding*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Gives our image an appropriate size to fit in*/
 .search-engine-optimization img {
     max-height: 200px;
 }

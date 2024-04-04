@@ -1,2 +1,2 @@
-# challenge-1
+# Code-Refactor
 Homework for first week of class
