@@ -7,7 +7,8 @@
 A code is provided with semantic HTML elements. 
 Images have alt attributes. 
 Title Element has a short descriptive title. 
-Comments were added to the CSS Styling sheet.  
+Comments were added to the CSS Styling sheet.   
+Links are now working properly.
 
 ## Website Link   
 
